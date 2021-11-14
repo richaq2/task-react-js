@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+ 
+}
+.ans1{
+  border-bottom: 5px;
+  border:solid;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  background-color: rgb(208, 211, 211);
+  margin-top: 10px;
+  position: relative;
+  font-size: 20px;
+  border-width: 2px;
+
+}
+
