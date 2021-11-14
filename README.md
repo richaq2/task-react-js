@@ -1,14 +1,14 @@
 ![image](https://user-images.githubusercontent.com/65802201/141688090-059365f3-680a-42b3-bbc5-6fd926bfde6c.png)
 
+Required Packages:
+semantic-ui-react
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+created By Richa
 
 In the project directory, you can run:
+
+### `npm install` -- install required packages
 
 ### `npm start`
 
